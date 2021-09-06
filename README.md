@@ -6,4 +6,4 @@
 - 💬 Ask me about Fullstack or any tech related stuff.
 - 📫 How to reach me: Instagram - @akhil.abhinav , twitter - @akhil_abhinav
 - 😄 Pronouns: He/His.
-
+- 🥅 Projects: shorturl.at/cktyN

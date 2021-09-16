@@ -6,4 +6,4 @@
 - 💬 Ask me about Fullstack or any tech related stuff.
 - 📫 How to reach me: Instagram - @akhil.abhinav , twitter - @akhil_abhinav
 - 😄 Pronouns: He/His.
-- 📙 Javascript/Typescript, Angular2+, Reactjs/Redux, Nodejs.
+- 📙 Javascript/Typescript, Angular2+/NGRX, Reactjs/Redux, Nodejs.

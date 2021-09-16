@@ -4,6 +4,6 @@
 - 📚 BTech in CSE from LPU .  
 - 🤔 I’m open for discussion at https://www.linkedin.com/in/abhinavakhil/.
 - 💬 Ask me about Fullstack or any tech related stuff.
-- 📫 How to reach me: Instagram - @akhil.abhinav , twitter - @akhil_abhinav
+- 📫 How to reach me: abhinavakhil@outlook.com
 - 😄 Pronouns: He/His.
 - 📙 Javascript/Typescript, Angular2+/NGRX, Reactjs/Redux, Nodejs.

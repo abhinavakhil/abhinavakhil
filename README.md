@@ -21,6 +21,7 @@ while(dev.isCoding())
 }
 ```
 
+I started with developing **Web** Apps and currently learning the **Mobile** Apps developemnt. I am a **DevOps** and **API** developer.
 <p align="center">Feel free reaching out to me at following platforms:</p>
 
 <p align="center">

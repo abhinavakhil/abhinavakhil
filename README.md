@@ -69,7 +69,7 @@ I am a Software Engineer, Who is passionate about building user-friendly, easy-t
 
 ## Stats
 
-|   ![Abhinav's's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhinavakhil88&theme=rogue) |
+|   ![Abhinav's's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhinavakhil&theme=rogue) |
 | :---: |
 
 ![Profile views](https://gpvc.arturio.dev/abhinavakhil?v=3)

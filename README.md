@@ -36,9 +36,9 @@ I am a Software Engineer, Who is passionate about building user-friendly, easy-t
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
 ![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=007ACC)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white&color=FFFFFF)
-![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular&logoColor=DD1B16&color=3C873A)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=3C873A&color=303030)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white&color=B4B7BE)
+![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular&logoColor=DD1B16&color=FFFFF)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=3C873A&color=3C873A)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 
 

@@ -67,9 +67,5 @@ I am a Software Engineer, Who is passionate about building user-friendly, easy-t
   <a href="mailto:abhinavakhil55@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-## Stats
-
-|   ![Abhinav's's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhinavakhil&theme=rogue) |
-| :---: |
 
 ![Profile views](https://gpvc.arturio.dev/abhinavakhil?v=3)

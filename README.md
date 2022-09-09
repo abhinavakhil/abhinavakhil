@@ -40,7 +40,7 @@ I am a Software Engineer, Who is passionate about building user-friendly, easy-t
 ![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular&logoColor=DD1B16&color=FFFFFF)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=FFFFFF&color=3C873A)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-
+![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
 ### Achievements

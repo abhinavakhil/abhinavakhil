@@ -21,7 +21,14 @@ while(dev.isCoding())
 }
 ```
 
-I started with developing **Web** Apps and currently learning the **Mobile** Apps developemnt. I am a **DevOps** and **API** developer.
+I started with developing **Web** Apps and currently learning the **Mobile** Apps development. I am a **DevOps** and **API** developer.
+
+### Achievements
+
+- 🏆 Runner up - SAP Hackathon.           
+- 🏆 Ctegory Prize Winner - Hack VSIT 3.0. - [`Geo Tag`](https://drive.google.com/file/d/1-HgYqYuM_fFLaa4FsJC1NLSKTGp51PTf/view?usp=sharing)                 
+
+
 <p align="center">Feel free reaching out to me at following platforms:</p>
 
 <p align="center">

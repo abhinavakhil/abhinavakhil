@@ -25,6 +25,25 @@ while(dev.isCoding())
 I am a Software Engineer, Who is passionate about building user-friendly, easy-to-use applications, that makes a difference to the lives of the people. I started with developing **Web** Apps and currently learning the **Mobile** Apps development. I am an open source contributor and I love to take part in Hackathons. Always there to help others and to clarify the doubts you have.
 <!-- I am a **DevOps** and **API** developer. -->
 
+### Blogs
+
+- 📚 Integrating Stripe Payment Gateway In Angular [`Link`](https://medium.com/@akhilabhinav/integrating-stripe-payment-gateway-in-angular-stripe-payment-checkout-example-502776d5eb07)         
+- 📚 10 Best Practices to Boost Your Angular Application Performance in 2023 [`Link`](https://medium.com/@akhilabhinav/10-angular-best-practices-to-boost-your-application-performance-1a9516c0b09a)                  
+- 📚 Mastering Google reCAPTCHA: A Comprehensive Guide for Implementing v2 and v3 in Your Angular App [`Link`](https://medium.com/@akhilabhinav/mastering-google-recaptcha-a-comprehensive-guide-for-implementing-v2-and-v3-in-your-angular-app-f8ebbe0e164e)
+- 📚 Implementing Cookie Consent Policy in Angular: A Complete Guide [`Link`](https://medium.com/@akhilabhinav/implementing-cookie-consent-policy-in-angular-f0a8f003d7da)
+- 📚 Using Browserslist in Angular: A Comprehensive Guide with Examples [`Link`](https://medium.com/@akhilabhinav/using-browserslist-in-angular-a-comprehensive-guide-with-examples-acf8323dc796)
+
+### NPM packages
+
+- 📦 ngx-multi-pixel [`Link`](https://www.npmjs.com/package/ngx-multi-pixel)         
+- 📦 @abhinavakhil/iconify-angular [`Link`](https://www.npmjs.com/package/@abhinavakhil/iconify-angular)                  
+- 📦 angular-feather-icons [`Link`](https://www.npmjs.com/package/angular-feather-icons)
+
+### Achievements
+
+- 🏆 Runner up - SAP Hackathon.           
+- 🏆 Category prize winner - Hack VSIT 3.0. - [`Geo Tag`](https://drive.google.com/file/d/1-HgYqYuM_fFLaa4FsJC1NLSKTGp51PTf/view?usp=sharing)                 
+
 ### My Skills 🚀
 <!-- ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E) -->
 <!-- ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4) -->
@@ -49,12 +68,6 @@ I am a Software Engineer, Who is passionate about building user-friendly, easy-t
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
-### Achievements
-
-- 🏆 Runner up - SAP Hackathon.           
-- 🏆 Category prize winner - Hack VSIT 3.0. - [`Geo Tag`](https://drive.google.com/file/d/1-HgYqYuM_fFLaa4FsJC1NLSKTGp51PTf/view?usp=sharing)                 
-
 
 <p align="center">Feel free reaching out to me at following platforms:</p>
 

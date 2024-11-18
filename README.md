@@ -17,6 +17,7 @@ Developer dev = new Developer(name);
 while(dev.isCoding())
 {
   dev.listenToMusic();
+  dev.UseAI();
   dev.openStackOverFlow();
   dev.drinkWater();
 }

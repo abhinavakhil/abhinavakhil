@@ -26,6 +26,11 @@ while(dev.isCoding())
 I am a Software Engineer, Who is passionate about building user-friendly, easy-to-use applications, that makes a difference to the lives of the people. I started with developing **Web** Apps and currently learning the **Mobile** Apps development. I am an open source contributor and I love to take part in Hackathons. Always there to help others and to clarify the doubts you have.
 <!-- I am a **DevOps** and **API** developer. -->
 
+### Projects
+
+- ✍️ **Penna** — The rich text editor people actually enjoy. Notion-feel editing, lossless Markdown, real tables and media, and free built-in AI. One small TypeScript package that drops into React, Vue, Angular, Svelte, Solid or plain HTML. [`Repo`](https://github.com/abhinavakhil/Penna) · [`Playground`](https://penna.vercel.app/playground) · [`npm`](https://www.npmjs.com/package/@abhinavakhil/penna-core)
+- 🗺️ **GeoTag** — Every pile of waste, on the map. AI-first waste mapping PWA: snap a photo, on-device AI sorts it into the right bin, the map scores every block on a live waste index, and the worst spots get a ticket. React 19 + Vite, no API keys, photos never leave the device. [`Repo`](https://github.com/abhinavakhil/GeoTag) · [`Live demo`](https://geo-tag-pi.vercel.app)
+
 ### Blogs
 
 - 📚 Integrating Stripe Payment Gateway In Angular [`Link`](https://medium.com/@akhilabhinav/integrating-stripe-payment-gateway-in-angular-stripe-payment-checkout-example-502776d5eb07)         
@@ -36,6 +41,7 @@ I am a Software Engineer, Who is passionate about building user-friendly, easy-t
 
 ### NPM packages
 
+- 📦 @abhinavakhil/penna-core [`Link`](https://www.npmjs.com/package/@abhinavakhil/penna-core)
 - 📦 ngx-multi-pixel [`Link`](https://www.npmjs.com/package/ngx-multi-pixel)         
 - 📦 @abhinavakhil/iconify-angular [`Link`](https://www.npmjs.com/package/@abhinavakhil/iconify-angular)                  
 - 📦 angular-feather-icons [`Link`](https://www.npmjs.com/package/angular-feather-icons)
@@ -43,7 +49,7 @@ I am a Software Engineer, Who is passionate about building user-friendly, easy-t
 ### Achievements
 
 - 🏆 Runner up - SAP Hackathon.           
-- 🏆 Category prize winner - Hack VSIT 3.0. - [`Geo Tag`](https://drive.google.com/file/d/1-HgYqYuM_fFLaa4FsJC1NLSKTGp51PTf/view?usp=sharing)                 
+- 🏆 Category prize winner - Hack VSIT 3.0. - [`Geo Tag`](https://github.com/abhinavakhil/GeoTag) · [`Certificate`](https://drive.google.com/file/d/1-HgYqYuM_fFLaa4FsJC1NLSKTGp51PTf/view?usp=sharing)                 
 
 ### My Skills 🚀
 <!-- ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E) -->

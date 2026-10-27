@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/abhinavakhil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/akhil_abhinav"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white"></a>
   <a href="https://medium.com/@akhilabhinav"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"></a>
-  <a href="mailto:abhinavakhil55@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:meabhinavakhil@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 | 🛠️ **123** public repositories, building in the open since **2017** | ![](https://img.shields.io/github/commit-activity/y/abhinavakhil/Penna?label=penna%20commits%2Fyr&style=flat-square) |
 | ✍️ **5** in-depth Angular guides on Medium (Stripe, reCAPTCHA, performance, cookie consent, Browserslist) | |
 | 🏆 **2** hackathon podiums: runner-up at the SAP Hackathon, category winner at Hack VSIT 3.0 | |
-| 💼 *[Work impact goes here, e.g. "Cut checkout load time by 40%", "Shipped GBX used by 1M+ donors"]* | |
+| 💼 *Cut checkout load time by 40%, Shipped GBX used by 1M+ donors* | |
 
 ---
 
